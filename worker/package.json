@@ -1,6 +1,6 @@
 {
   "name": "worker",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dgram": "^1.0.1",
+    "node-ssdp": "^4.0.1",
+    "onoff": "^6.0.3",
     "socket.io-client": "^4.7.4"
   }
 }

@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "dgram": "^1.0.1",
-    "node-ssdp": "^4.0.1"
-  }
-}
